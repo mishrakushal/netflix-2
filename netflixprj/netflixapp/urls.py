@@ -4,5 +4,5 @@ from .views import Home
 appname = 'netflixapp'
 
 urlpatterns = [
-    path('', Home, name="home"),
+    path('', Home.as_view(), name="home"),
 ]
