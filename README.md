@@ -1,6 +1,6 @@
 # Netflix 2.0 Web App
 
-![Netflix Logo](netflixprj\static\assets\netflix.png)
+![Netflix Logo](./netflixprj/static/assets/netflix.png)
 
 The Netflix 2.0 web application is a streaming platform built entirely from scratch using Python Django, SQLite database, HTML, Bootstrap, and Vanilla JavaScript. It offers a wide range of features to enhance the streaming experience for users.
 
